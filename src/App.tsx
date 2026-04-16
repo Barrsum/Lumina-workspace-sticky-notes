@@ -108,7 +108,7 @@ export default function App() {
             <StickyNoteIcon size={20} />
           </div>
           <div className="flex flex-col">
-            <h1 className="text-lg sm:text-xl font-bold tracking-tight leading-none">Lumina</h1>
+            <h1 className="text-lg sm:text-xl font-bold tracking-tight leading-none">Lumina | Sticky Notes App - By Ram Bapat</h1>
             <span className="text-[10px] tracking-widest text-[var(--text-muted)] uppercase font-semibold mt-1">Workspace</span>
           </div>
         </div>
