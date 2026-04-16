@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { motion, useDragControls, AnimatePresence } from 'motion/react';
 import { Github, Linkedin, Plus, Moon, Sun, X, GripHorizontal, StickyNote as StickyNoteIcon, Trash2, Maximize2 } from 'lucide-react';
 
-const GITHUB_URL = "https://github.com/Barrsum/Ink-and-Error-Hangman";
+const GITHUB_URL = "https://github.com/Barrsum/Lumina-workspace-sticky-notes";
 const LINKEDIN_URL = "https://www.linkedin.com/in/ram-bapat-barrsum-diamos";
 
 type NoteColor = {

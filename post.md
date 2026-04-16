@@ -1,4 +1,5 @@
 🚀 Day 16 of 30 Days of Vibe Coding: Lumina Workspace! ✨
+🌐 Live Demo: https://lumina-workspace-sticky-notes.vercel.app/
 
 For Day 16, I built the ultimate spatial workspace: a premium, mobile-optimized Sticky Notes app! I wanted to create something that felt incredibly tactile, polished, and useful across all devices.
 
@@ -24,7 +25,7 @@ The header and footer are full-width sticky bars with a beautiful frosted glass 
 - Framer Motion (for drag controls and animations)
 
 🔗 Links:
-🌐 Live Demo: [Link]
+🌐 Live Demo: https://lumina-workspace-sticky-notes.vercel.app/
 📂 GitHub Repository: https://github.com/Barrsum/Ink-and-Error-Hangman
 
 What would you write on your first sticky note? Let me know! 👇

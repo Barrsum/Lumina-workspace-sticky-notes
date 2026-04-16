@@ -4,9 +4,7 @@
 
 **Day 16 / 30 - April Vibe Coding Challenge**
 
-## 🔗 Links
-*   **Live Demo:** *(Add Vercel Link Here)*
-*   **GitHub Repository:** [https://github.com/Barrsum/Ink-and-Error-Hangman](https://github.com/Barrsum/Ink-and-Error-Hangman)
+## Live Demo on Vercel - [Demo](https://lumina-workspace-sticky-notes.vercel.app/)
 
 **Lumina Workspace** is a premium, mobile-optimized spatial sticky notes application. It allows you to create, drag, drop, and resize sticky notes on an infinite-feeling canvas. It features a beautiful glassmorphic UI, custom mobile-friendly resizing, and seamless dark/light mode toggling.
 
@@ -30,8 +28,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Barrsum/Ink-and-Error-Hangman.git
-cd Ink-and-Error-Hangman
+git clone https://github.com/Barrsum/Lumina-workspace-sticky-notes.git
+cd Lumina-workspace-sticky-notes
 ```
 
 ### 2. Install Dependencies
