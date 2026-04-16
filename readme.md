@@ -8,6 +8,17 @@
 
 **Lumina Workspace** is a premium, mobile-optimized spatial sticky notes application. It allows you to create, drag, drop, and resize sticky notes on an infinite-feeling canvas. It features a beautiful glassmorphic UI, custom mobile-friendly resizing, and seamless dark/light mode toggling.
 
+## 📸 Screenshots
+
+![1](public/home-01.png)
+
+
+![2](public/home-02.png)
+
+
+![3](public/home-03.png)
+
+
 ## ✨ Features
 
 *   **📌 Spatial Canvas:** Drag and drop sticky notes anywhere on the screen.
